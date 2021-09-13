@@ -1,0 +1,24 @@
+{
+	"name": "request-header-parser-microservice",
+	"version": "0.0.1",
+	"description": "An FCC Backend Challenge - Request Header Parser Microservice",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"cors": "^2.8.1",
+		"dotenv": "^8.2.0",
+		"express": "^5.0.0-alpha.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorGreco/request-header-parser-microservice"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express"
+	],
+	"license": "MIT"
+}
